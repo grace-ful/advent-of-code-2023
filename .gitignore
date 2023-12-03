@@ -1,0 +1,5 @@
+# ignore input files
+*.txt
+
+# ignore cpp executables
+*.exe
